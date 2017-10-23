@@ -1,3 +1,5 @@
+// A program to print all the possible words combination whenever some digits are dialled in a bar phone. E.g.: When 23 is dialled, the
+//combination of possible words are: ad, ae, af, bd, be, bf, cd, ce, cf. As 2 corresponds to "abc" and 3 corresponds to "def" on a bar phone.
 #include <stdio.h>
 #include <string.h>
 
